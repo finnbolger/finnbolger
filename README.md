@@ -1,6 +1,6 @@
 👋 Hi, I'm Finn Bolger
 
-Economics master's student (University of Valencia) with a background in Mathematical Sciences (TU Dublin) and 3+ years in financial operations and data analysis across energy markets and banking. Looking for analyst roles in economics, finance, or data — where I can turn messy data into decisions.
+Economics master's student (University of Valencia) with a background in Mathematical Sciences (TU Dublin) and 3+ years in financial operations and data analysis across energy markets and banking. Looking for analyst roles in economics, finance, or data where I can turn messy data into decisions.
 
 ## What I work with
 `Python` `R` `Stata` `SQL` `Power BI` `Excel`
