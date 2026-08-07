@@ -1,4 +1,4 @@
-👋 Hi, I'm Finn Bolger
+Hi, I'm Finn Bolger
 
 Economics master's student (University of Valencia) with a background in Mathematical Sciences (TU Dublin) and 3+ years in financial operations and data analysis across energy markets and banking. Looking for analyst roles in economics, finance, or data — where I can turn messy data into decisions.
 
@@ -21,13 +21,13 @@ Website for my maths and English tutoring business.
 
 ## Background
 
-- 🎓 MSc Economics, University of Valencia (in progress)
-- 🎓 BSc Mathematical Sciences (2:1), TU Dublin
-- 💼 Controller, EirGrid Group — validated renewable energy auction data, built analytical reports, tested auction algorithms
-- 💼 Data Analyst Intern, AIB — built Power BI dashboards, worked with R and SQL
+- MSc Economics, University of Valencia (in progress)
+- BSc Mathematical Sciences (2:1), TU Dublin
+- Controller, EirGrid Group — validated renewable energy auction data, built analytical reports, tested auction algorithms
+- Data Analyst Intern, AIB — built Power BI dashboards, worked with R and SQL
 
 ## Get in touch
 
-📧 2016finnbolger@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/finn-bolger-579aa0200)
-🌍 Based in Valencia, Spain (EU work eligible)
+ 2016finnbolger@gmail.com
+ [LinkedIn](https://www.linkedin.com/in/finn-bolger-579aa0200)
+ Based in Valencia, Spain (EU work eligible)
